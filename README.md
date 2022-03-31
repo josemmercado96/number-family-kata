@@ -16,5 +16,5 @@ Each pair means that these persons are directly related. For example:
 All the people that are related (directly or indirectly) make part of the same family.
 In the example above there are 2 families:
 
-- Peter has relation with Jane, Peter, Samuel, then Peter has relation with Mark and Mark with Sasha.
+- John has relation with Jane, Peter, Samuel, then Peter has relation with Mark and Mark with Sasha.
 - Kirk has relation with Tom and Tom has relation with Erica
